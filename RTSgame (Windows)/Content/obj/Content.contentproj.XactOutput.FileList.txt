@@ -1,0 +1,3 @@
+Content\Audio\Sounds\RtsGameAudio.xgs
+Content\Audio\Sounds\Wave Bank.xwb
+Content\Audio\Sounds\Sound Bank.xsb

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/rtsgame2011/!svn/ver/413/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens
+END
+LoadingScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rtsgame2011/!svn/ver/4/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/LoadingScreen.cs
+END
+MessageBoxScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rtsgame2011/!svn/ver/4/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/MessageBoxScreen.cs
+END
+BackgroundScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/413/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/BackgroundScreen.cs
+END
+GameplayScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rtsgame2011/!svn/ver/407/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/GameplayScreen.cs
+END
+OptionsMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/360/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/OptionsMenuScreen.cs
+END
+PauseMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rtsgame2011/!svn/ver/290/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/PauseMenuScreen.cs
+END
+PlayerIndexEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rtsgame2011/!svn/ver/4/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/PlayerIndexEventArgs.cs
+END
+MenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rtsgame2011/!svn/ver/4/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/MenuScreen.cs
+END
+MenuEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rtsgame2011/!svn/ver/4/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/MenuEntry.cs
+END
+MainMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rtsgame2011/!svn/ver/300/trunk/RTSgame%20(Windows)/GameStateManagementSample/Screens/MainMenuScreen.cs
+END

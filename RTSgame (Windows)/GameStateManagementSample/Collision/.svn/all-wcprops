@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/rtsgame2011/!svn/ver/424/trunk/RTSgame%20(Windows)/GameStateManagementSample/Collision
+END
+CollisionShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/424/trunk/RTSgame%20(Windows)/GameStateManagementSample/Collision/CollisionShape.cs
+END
+CollisionMath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rtsgame2011/!svn/ver/322/trunk/RTSgame%20(Windows)/GameStateManagementSample/Collision/CollisionMath.cs
+END
+CollisionBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/256/trunk/RTSgame%20(Windows)/GameStateManagementSample/Collision/CollisionBlock.cs
+END
+CollisionManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rtsgame2011/!svn/ver/277/trunk/RTSgame%20(Windows)/GameStateManagementSample/Collision/CollisionManager.cs
+END
+InteractionBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rtsgame2011/!svn/ver/408/trunk/RTSgame%20(Windows)/GameStateManagementSample/Collision/InteractionBlock.cs
+END
+InteractionManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rtsgame2011/!svn/ver/408/trunk/RTSgame%20(Windows)/GameStateManagementSample/Collision/InteractionManager.cs
+END

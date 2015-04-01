@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\Models\DoodadTree2old.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box005</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">37</Data>
+        </OpaqueData>
+        <Transform>2.54 0 0 0 0 7.19523466E-16 -2.54 0 0 3.09540129 8.768558E-16 0 -2.764463 0 1.57650256 1</Transform>
+        <Positions>-5 -5 0 5 -5 0 -5 5 0 5 5 0 -5 -5 42.78327 5 -5 42.78327 -5 5 42.78327 5 5 42.78327</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box001</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">10</Data>
+        </OpaqueData>
+        <Transform>3.44925642 0 0 0 0 9.770949E-16 -3.44925642 0 0 3.44925642 9.770949E-16 0 -32.4988861 79.7233047 25.2627335 1</Transform>
+        <Positions>-10 -10 0 10 -10 0 -10 10 0 10 10 0 -10 -10 20 10 -10 20 -10 10 20 10 10 20</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box002</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">11</Data>
+        </OpaqueData>
+        <Transform>3.44925642 0 0 0 0 9.770949E-16 -3.44925642 0 0 3.44925642 9.770949E-16 0 -17.9397831 104.313965 -28.1663227 1</Transform>
+        <Positions>-10 -10 0 10 -10 0 -10 10 0 10 10 0 -10 -10 20 10 -10 20 -10 10 20 10 10 20</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box003</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">12</Data>
+        </OpaqueData>
+        <Transform>3.44925642 0 0 0 0 9.770949E-16 -3.44925642 0 0 3.44925642 9.770949E-16 0 16.62686 133.958115 14.8457 1</Transform>
+        <Positions>-10 -10 0 10 -10 0 -10 10 0 10 10 0 -10 -10 20 10 -10 20 -10 10 20 10 10 20</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box004</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">13</Data>
+        </OpaqueData>
+        <Transform>3.44925642 0 0 0 0 9.770949E-16 -3.44925642 0 0 3.44925642 9.770949E-16 0 35.1399155 95.8371353 -6.982258 1</Transform>
+        <Positions>-10 -10 0 10 -10 0 -10 10 0 10 10 0 -10 -10 20 10 -10 20 -10 10 20 10 10 20</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material #3</Name>
+      <Identity>
+        <SourceFilename>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\Models\DoodadTree2old.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.65882355 0.294117659 0</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">2</Data>
+        <Data Key="Enabled" Type="bool">false</Data>
+        <Data Key="EffectList" Type="int">0</Data>
+        <Data Key="dxStdMat" Type="bool">false</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>Material #2</Name>
+      <Identity>
+        <SourceFilename>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\Models\DoodadTree2old.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.0627451 0.882353 0</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">2</Data>
+        <Data Key="Enabled" Type="bool">false</Data>
+        <Data Key="EffectList" Type="int">0</Data>
+        <Data Key="dxStdMat" Type="bool">false</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

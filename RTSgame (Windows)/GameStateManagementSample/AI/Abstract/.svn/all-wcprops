@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Abstract
+END
+AINode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rtsgame2011/!svn/ver/126/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Abstract/AINode.cs
+END
+Selector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Abstract/Selector.cs
+END
+RandomSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rtsgame2011/!svn/ver/126/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Abstract/RandomSelector.cs
+END
+AIManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rtsgame2011/!svn/ver/152/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Abstract/AIManager.cs
+END
+Behaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rtsgame2011/!svn/ver/126/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Abstract/Behaviour.cs
+END
+IUpdatableAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rtsgame2011/!svn/ver/81/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Abstract/IUpdatableAI.cs
+END
+SequenceSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rtsgame2011/!svn/ver/126/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Abstract/SequenceSelector.cs
+END

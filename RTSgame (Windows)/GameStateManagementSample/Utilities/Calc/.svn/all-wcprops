@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc
+END
+Clock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rtsgame2011/!svn/ver/414/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/Clock.cs
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/Constants.cs
+END
+Calculations.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/Calculations.cs
+END
+SeedRandom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/258/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/SeedRandom.cs
+END
+EasyRandom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/202/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/EasyRandom.cs
+END
+IBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rtsgame2011/!svn/ver/202/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/IBlock.cs
+END
+Array2D.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/Array2D.cs
+END
+BlockMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rtsgame2011/!svn/ver/277/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/BlockMap.cs
+END
+Block.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rtsgame2011/!svn/ver/202/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/Block.cs
+END
+FloatRectangle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rtsgame2011/!svn/ver/202/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Calc/FloatRectangle.cs
+END

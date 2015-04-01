@@ -1,0 +1,21 @@
+﻿The map is a grid of Regions.
+
+A Region (also HugeArea), consists of 3x3 LargeAreas, according to the following layout:
+
+  #.#
+  .o.
+  #.#
+
+  # = blocking LargeArea
+  . = open area
+  o = center, open area where buildings stand
+
+LargeArea, usually consists of a couple of randomly placed SmallAreas
+LargeAreaType enumerates the different kinds of LargeArea.
+
+SmallArea, contains the data about what could be set onto each single square in
+  the SmallArea rectangle.
+SmallAreaType enumerates the different kinds of SmallArea.
+
+SquareTerrain covers only a single square, and declares what type this square is most similar to.
+

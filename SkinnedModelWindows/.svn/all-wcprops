@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rtsgame2011/!svn/ver/119/trunk/SkinnedModelWindows
+END
+AnimationPlayer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rtsgame2011/!svn/ver/119/trunk/SkinnedModelWindows/AnimationPlayer.cs
+END
+SkinnedModelWindows.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/rtsgame2011/!svn/ver/119/trunk/SkinnedModelWindows/SkinnedModelWindows.csproj
+END
+Keyframe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rtsgame2011/!svn/ver/119/trunk/SkinnedModelWindows/Keyframe.cs
+END
+AnimationClip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rtsgame2011/!svn/ver/119/trunk/SkinnedModelWindows/AnimationClip.cs
+END
+SkinningData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/rtsgame2011/!svn/ver/119/trunk/SkinnedModelWindows/SkinningData.cs
+END

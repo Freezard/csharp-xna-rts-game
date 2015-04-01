@@ -1,0 +1,1659 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2011-05-19T23:28:04.7949289+02:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2011-05-19T23:28:04.8049294+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2011-05-19T23:28:04.7919287+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainGrass.png</Source>
+      <Name>Textures\TerrainGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainGrass.xnb</Output>
+      <Time>2011-05-19T23:28:02.523799+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainGrass2.png</Source>
+      <Name>Textures\TerrainGrass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainGrass2.xnb</Output>
+      <Time>2011-05-19T23:28:02.5558008+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\heightmap.bmp</Source>
+      <Name>Textures\heightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\heightmap.xnb</Output>
+      <Time>2011-05-19T23:28:02.576802+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\heightmap2.bmp</Source>
+      <Name>Textures\heightmap2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\heightmap2.xnb</Output>
+      <Time>2011-05-19T23:28:02.6088038+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DoodadTree3.png</Source>
+      <Name>Textures\DoodadTree3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\DoodadTree3.xnb</Output>
+      <Time>2011-05-19T23:28:02.5117983+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainGrass3.png</Source>
+      <Name>Textures\TerrainGrass3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainGrass3.xnb</Output>
+      <Time>2011-05-19T23:28:02.5578009+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DoodadTree1.png</Source>
+      <Name>Textures\DoodadTree1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\DoodadTree1.xnb</Output>
+      <Time>2011-05-19T23:28:02.6208045+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\troll.png</Source>
+      <Name>Textures\troll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\troll.xnb</Output>
+      <Time>2011-05-19T23:28:02.5718017+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DoodadTree2.png</Source>
+      <Name>Textures\DoodadTree2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\DoodadTree2.xnb</Output>
+      <Time>2011-05-19T23:28:02.506798+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EconomyMetalResource.png</Source>
+      <Name>Textures\EconomyMetalResource</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\EconomyMetalResource.xnb</Output>
+      <Time>2011-05-19T23:28:02.5848025+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingAlternateBuilding.png</Source>
+      <Name>Textures\BuildingAlternateBuilding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingAlternateBuilding.xnb</Output>
+      <Time>2011-05-19T23:28:02.5387998+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TrädFyrkantigTexture.png</Source>
+      <Name>Textures\TrädFyrkantigTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TrädFyrkantigTexture.xnb</Output>
+      <Time>2011-05-19T23:28:02.5157985+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DoodadAlternateTree1.png</Source>
+      <Name>Textures\DoodadAlternateTree1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\DoodadAlternateTree1.xnb</Output>
+      <Time>2011-05-19T23:28:02.5668014+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingControlTower.png</Source>
+      <Name>Textures\BuildingControlTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingControlTower.xnb</Output>
+      <Time>2011-05-19T23:28:02.5428001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingFactory.png</Source>
+      <Name>Textures\BuildingFactory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingFactory.xnb</Output>
+      <Time>2011-05-19T23:28:02.6138041+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingWindmill.png</Source>
+      <Name>Textures\BuildingWindmill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingWindmill.xnb</Output>
+      <Time>2011-05-19T23:28:02.5087981+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PFXsmoke.png</Source>
+      <Name>Textures\PFXsmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\PFXsmoke.xnb</Output>
+      <Time>2011-05-19T23:28:02.5047979+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PFXfire.png</Source>
+      <Name>Textures\PFXfire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\PFXfire.xnb</Output>
+      <Time>2011-05-19T23:28:02.5217989+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PFXexplosion.png</Source>
+      <Name>Textures\PFXexplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\PFXexplosion.xnb</Output>
+      <Time>2011-05-19T23:28:02.5137984+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainGrass4.png</Source>
+      <Name>Textures\TerrainGrass4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainGrass4.xnb</Output>
+      <Time>2011-05-19T23:28:02.559801+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainGrass5.png</Source>
+      <Name>Textures\TerrainGrass5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainGrass5.xnb</Output>
+      <Time>2011-05-19T23:28:02.5618011+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainGrass4_2.PNG</Source>
+      <Name>Textures\TerrainGrass4_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainGrass4_2.xnb</Output>
+      <Time>2011-05-19T23:28:02.5918029+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainGrass4_3.PNG</Source>
+      <Name>Textures\TerrainGrass4_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainGrass4_3.xnb</Output>
+      <Time>2011-05-19T23:28:02.593803+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WizardSkjutarAnimation4Texture2.png</Source>
+      <Name>Textures\WizardSkjutarAnimation4Texture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\WizardSkjutarAnimation4Texture2.xnb</Output>
+      <Time>2011-05-19T23:28:02.5648013+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UIenemyIcon.png</Source>
+      <Name>Textures\UIenemyIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\UIenemyIcon.xnb</Output>
+      <Time>2011-05-19T23:28:02.610804+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainMultiTexture1.png</Source>
+      <Name>Textures\TerrainMultiTexture1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainMultiTexture1.xnb</Output>
+      <Time>2011-05-19T23:28:02.6018034+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UIBar.png</Source>
+      <Name>Textures\UIBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\UIBar.xnb</Output>
+      <Time>2011-05-19T23:28:02.5808022+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UIBuildMenu.png</Source>
+      <Name>Textures\UIBuildMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\UIBuildMenu.xnb</Output>
+      <Time>2011-05-19T23:28:02.6058037+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UIMarker.png</Source>
+      <Name>Textures\UIMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\UIMarker.xnb</Output>
+      <Time>2011-05-19T23:28:02.5407999+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SolidRed.png</Source>
+      <Name>Textures\SolidRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\SolidRed.xnb</Output>
+      <Time>2011-05-19T23:28:02.5297993+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SolidYellow.png</Source>
+      <Name>Textures\SolidYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\SolidYellow.xnb</Output>
+      <Time>2011-05-19T23:28:02.5898027+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SolidBrown.png</Source>
+      <Name>Textures\SolidBrown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\SolidBrown.xnb</Output>
+      <Time>2011-05-19T23:28:02.6038036+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SolidLightGreen.png</Source>
+      <Name>Textures\SolidLightGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\SolidLightGreen.xnb</Output>
+      <Time>2011-05-19T23:28:02.5478003+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SolidDarkBlue.png</Source>
+      <Name>Textures\SolidDarkBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\SolidDarkBlue.xnb</Output>
+      <Time>2011-05-19T23:28:02.5518006+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainMultiTexture1_2.png</Source>
+      <Name>Textures\TerrainMultiTexture1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainMultiTexture1_2.xnb</Output>
+      <Time>2011-05-19T23:28:02.5788021+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\FotT.png</Source>
+      <Name>Textures\FotT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\FotT.xnb</Output>
+      <Time>2011-05-19T23:28:02.5968032+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MechTexture2.jpg</Source>
+      <Name>Textures\MechTexture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\MechTexture2.xnb</Output>
+      <Time>2011-05-19T23:28:02.5357997+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\rr1.png</Source>
+      <Name>Textures\rr1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\rr1.xnb</Output>
+      <Time>2011-05-19T23:28:02.5277992+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wwsmoke.png</Source>
+      <Name>Textures\wwsmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\wwsmoke.xnb</Output>
+      <Time>2011-05-19T23:28:02.5688015+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TerrainMultiTexture1_3.png</Source>
+      <Name>Textures\TerrainMultiTexture1_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\TerrainMultiTexture1_3.xnb</Output>
+      <Time>2011-05-19T23:28:02.5828023+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UIBuildMenu2.png</Source>
+      <Name>Textures\UIBuildMenu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\UIBuildMenu2.xnb</Output>
+      <Time>2011-05-19T23:28:02.5257991+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UICommandMenu2.png</Source>
+      <Name>Textures\UICommandMenu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\UICommandMenu2.xnb</Output>
+      <Time>2011-05-19T23:28:02.5458002+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingWindmillBlue.png</Source>
+      <Name>Textures\BuildingWindmillBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingWindmillBlue.xnb</Output>
+      <Time>2011-05-19T23:28:02.5868026+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingWindmillRed.png</Source>
+      <Name>Textures\BuildingWindmillRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingWindmillRed.xnb</Output>
+      <Time>2011-05-19T23:28:02.6188044+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingControlTowerBlue.png</Source>
+      <Name>Textures\BuildingControlTowerBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingControlTowerBlue.xnb</Output>
+      <Time>2011-05-19T23:28:02.6158042+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingControlTowerRed.png</Source>
+      <Name>Textures\BuildingControlTowerRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingControlTowerRed.xnb</Output>
+      <Time>2011-05-19T23:28:02.5327995+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingFactoryBlue.png</Source>
+      <Name>Textures\BuildingFactoryBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingFactoryBlue.xnb</Output>
+      <Time>2011-05-19T23:28:02.5738018+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingFactoryRed.png</Source>
+      <Name>Textures\BuildingFactoryRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingFactoryRed.xnb</Output>
+      <Time>2011-05-19T23:28:02.5998033+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingShrine3Blue.png</Source>
+      <Name>Textures\BuildingShrine3Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingShrine3Blue.xnb</Output>
+      <Time>2011-05-19T23:28:02.5187987+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BuildingShrine3Red.png</Source>
+      <Name>Textures\BuildingShrine3Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\BuildingShrine3Red.xnb</Output>
+      <Time>2011-05-19T23:28:02.5508005+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background2.png</Source>
+      <Name>Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Background2.xnb</Output>
+      <Time>2011-05-19T23:28:04.7989291+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background3.png</Source>
+      <Name>Background3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Background3.xnb</Output>
+      <Time>2011-05-28T05:21:07.8668236+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background4.png</Source>
+      <Name>Background4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Background4.xnb</Output>
+      <Time>2011-05-28T05:21:07.891825+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bubble.png</Source>
+      <Name>Textures\bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\bubble.xnb</Output>
+      <Time>2011-08-03T15:32:16.8467949+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SolidBlue.png</Source>
+      <Name>Textures\SolidBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Textures\SolidBlue.xnb</Output>
+      <Time>2011-08-03T15:32:16.8397945+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2011-05-19T23:28:04.744926+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont.spritefont</Source>
+      <Name>Fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Fonts\gamefont.xnb</Output>
+      <Time>2011-05-19T23:28:04.7459261+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\DoodadTree2old.FBX</Source>
+      <Name>Models\DoodadTree2old</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\DoodadTree2old.xnb</Output>
+      <Time>2011-05-19T23:27:59.5426285+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\DoodadTree2old_0.xml</Key>
+        <Value>2015-04-01T18:18:55.2899812+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\monitor.FBX</Source>
+      <Name>Models\monitor</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\monitor.xnb</Output>
+      <Time>2011-05-19T23:27:59.5376282+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\monitor_0.xml</Key>
+        <Value>2015-04-01T18:18:55.373986+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\trololol.FBX</Source>
+      <Name>Models\trololol</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\trololol.xnb</Output>
+      <Time>2011-05-19T23:27:59.5046263+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\trololol_0.xml</Key>
+        <Value>2015-04-01T18:18:55.408988+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\DoodadTree3.FBX</Source>
+      <Name>Models\DoodadTree3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\DoodadTree3.xnb</Output>
+      <Time>2011-05-19T23:27:59.4906255+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\DoodadTree3_0.xml</Key>
+        <Value>2015-04-01T18:18:55.44399+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\DoodadTree1.FBX</Source>
+      <Name>Models\DoodadTree1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\DoodadTree1.xnb</Output>
+      <Time>2011-05-19T23:27:59.4836251+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\DoodadTree1_0.xml</Key>
+        <Value>2015-04-01T18:18:55.4929928+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\troll.FBX</Source>
+      <Name>Models\troll</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\troll.xnb</Output>
+      <Time>2011-05-19T23:27:59.5506289+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\troll_0.xml</Key>
+        <Value>2015-04-01T18:18:55.5329951+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\DoodadTree2.FBX</Source>
+      <Name>Models\DoodadTree2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\DoodadTree2.xnb</Output>
+      <Time>2011-05-19T23:27:59.4866253+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\DoodadTree2_0.xml</Key>
+        <Value>2015-04-01T18:18:55.5669971+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\MonsterFiendeStillaFBX.fbx</Source>
+      <Name>Models\MonsterFiendeStillaFBX</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\MonsterFiendeStillaFBX.xnb</Output>
+      <Time>2011-05-19T23:27:59.5156269+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MonsterFiendeStillaFBX_0.xml</Key>
+        <Value>2015-04-01T18:18:55.6390012+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\UltimateFBX.fbx</Source>
+      <Name>Models\UltimateFBX</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\UltimateFBX.xnb</Output>
+      <Time>2011-05-19T23:27:59.534628+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\UltimateFBX_0.xml</Key>
+        <Value>2015-04-01T18:18:55.8700144+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\EconomyMetalResource.FBX</Source>
+      <Name>Models\EconomyMetalResource</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\EconomyMetalResource.xnb</Output>
+      <Time>2011-05-19T23:27:59.4456229+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\EconomyMetalResource_0.xml</Key>
+        <Value>2015-04-01T18:18:55.9310179+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\TrädMaterial.fbx</Source>
+      <Name>Models\TrädMaterial</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\TrädMaterial.xnb</Output>
+      <Time>2011-05-19T23:27:59.5276276+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\TrdMaterial_0.xml</Key>
+        <Value>2015-04-01T18:18:56.0150227+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\AlternateTree1FBX.fbx</Source>
+      <Name>Models\AlternateTree1FBX</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\AlternateTree1FBX.xnb</Output>
+      <Time>2011-05-19T23:27:59.4636239+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\AlternateTree1FBX_0.xml</Key>
+        <Value>2015-04-01T18:18:56.2920385+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\AlternateBuilding2FBX.fbx</Source>
+      <Name>Models\AlternateBuilding2FBX</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\AlternateBuilding2FBX.xnb</Output>
+      <Time>2011-05-19T23:27:59.4596237+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\AlternateBuilding2FBX_0.xml</Key>
+        <Value>2015-04-01T18:18:56.562054+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\TrädFyrkantigFBX.fbx</Source>
+      <Name>Models\TrädFyrkantigFBX</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\TrädFyrkantigFBX.xnb</Output>
+      <Time>2011-05-19T23:27:59.4546234+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\TrdFyrkantigFBX_0.xml</Key>
+        <Value>2015-04-01T18:18:56.754065+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\BuildingWindmill.FBX</Source>
+      <Name>Models\BuildingWindmill</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\BuildingWindmill.xnb</Output>
+      <Time>2011-05-19T23:27:59.4936257+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\BuildingWindmill_0.xml</Key>
+        <Value>2015-04-01T18:18:56.7990675+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\BuildingFactory.FBX</Source>
+      <Name>Models\BuildingFactory</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\BuildingFactory.xnb</Output>
+      <Time>2011-05-19T23:27:59.4726245+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\BuildingFactory_0.xml</Key>
+        <Value>2015-04-01T18:18:56.8470703+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\BuildingControlTower.FBX</Source>
+      <Name>Models\BuildingControlTower</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\BuildingControlTower.xnb</Output>
+      <Time>2011-05-19T23:27:59.5196271+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\BuildingControlTower_0.xml</Key>
+        <Value>2015-04-01T18:18:56.8800722+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Pouya2.fbx</Source>
+      <Name>Models\Pouya2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>MergeAnimationsProcessor</Processor>
+      <Parameters>
+        <Data Key="MergeAnimations">Animations/PouyaFulBen.fbx; Animations/PouyaFulBen2.fbx</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\Pouya2.xnb</Output>
+      <Time>2011-05-19T23:27:59.5236274+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Pouya2_0.xml</Key>
+        <Value>2015-04-01T18:18:56.9510762+02:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PouyaFulBen_0.xml</Key>
+        <Value>2015-04-01T18:18:57.0400813+02:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PouyaFulBen2_0.xml</Key>
+        <Value>2015-04-01T18:18:57.1330867+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\PouyaFulBen.fbx</Source>
+      <Name>Animations\PouyaFulBen</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Animations\PouyaFulBen.xnb</Output>
+      <Time>2011-05-19T23:27:52.2352105+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PouyaFulBen_1.xml</Key>
+        <Value>2015-04-01T18:18:57.0290807+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\PouyaFulBen2.fbx</Source>
+      <Name>Animations\PouyaFulBen2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Animations\PouyaFulBen2.xnb</Output>
+      <Time>2011-05-19T23:27:52.243211+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PouyaFulBen2_1.xml</Key>
+        <Value>2015-04-01T18:18:57.1180858+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\PouyaBase.fbx</Source>
+      <Name>Models\PouyaBase</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\PouyaBase.xnb</Output>
+      <Time>2011-05-19T23:27:59.4766247+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\PouyaBase_0.xml</Key>
+        <Value>2015-04-01T18:18:58.5141656+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\AnimationWizardSenaste.fbx</Source>
+      <Name>Models\AnimationWizardSenaste</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>MergeAnimationsProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\AnimationWizardSenaste.xnb</Output>
+      <Time>2011-05-19T23:27:59.4686242+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\AnimationWizardSenaste_0.xml</Key>
+        <Value>2015-04-01T18:18:59.0391957+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\WizardASC2.fbx</Source>
+      <Name>Animations\WizardASC2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Animations\WizardASC2.xnb</Output>
+      <Time>2011-05-19T23:27:52.2402108+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\WizardASC2_0.xml</Key>
+        <Value>2015-04-01T18:18:59.4002163+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\PlayerCharacterHover.fbx</Source>
+      <Name>Models\PlayerCharacterHover</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>MergeAnimationsProcessor</Processor>
+      <Parameters>
+        <Data Key="MergeAnimations">Animations/PlayerCharacterSpecialMove2.fbx; Animations/WizardSkjutar1.fbx</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\PlayerCharacterHover.xnb</Output>
+      <Time>2011-05-19T23:27:59.4496231+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\PlayerCharacterHover_0.xml</Key>
+        <Value>2015-04-01T18:18:59.6792323+02:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PlayerCharacterSpecialMove2_0.xml</Key>
+        <Value>2015-04-01T18:19:00.0132514+02:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\WizardSkjutar1_0.xml</Key>
+        <Value>2015-04-01T18:19:00.2762664+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSkjutar1.fbx</Source>
+      <Name>Animations\WizardSkjutar1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Animations\WizardSkjutar1.xnb</Output>
+      <Time>2011-05-19T23:27:52.2302102+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\WizardSkjutar1_1.xml</Key>
+        <Value>2015-04-01T18:19:00.2482648+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\BuildingShrine3.fbx</Source>
+      <Name>Models\BuildingShrine3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\BuildingShrine3.xnb</Output>
+      <Time>2011-05-19T23:27:59.4796249+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\BuildingShrine3_0.xml</Key>
+        <Value>2015-04-01T18:19:00.3572711+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Bullet1.fbx</Source>
+      <Name>Models\Bullet1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\Bullet1.xnb</Output>
+      <Time>2011-05-19T23:27:59.5076265+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Bullet1_0.xml</Key>
+        <Value>2015-04-01T18:19:00.3962733+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Bullet2.fbx</Source>
+      <Name>Models\Bullet2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\Bullet2.xnb</Output>
+      <Time>2011-05-19T23:27:59.5106266+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Bullet2_0.xml</Key>
+        <Value>2015-04-01T18:19:00.4342755+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\DoodadStoneHeap.fbx</Source>
+      <Name>Models\DoodadStoneHeap</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\DoodadStoneHeap.xnb</Output>
+      <Time>2011-05-19T23:27:59.4416227+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\DoodadStoneHeap_0.xml</Key>
+        <Value>2015-04-01T18:19:00.5322811+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSnurrSpecial1.fbx</Source>
+      <Name>Animations\WizardSnurrSpecial1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Animations\WizardSnurrSpecial1.xnb</Output>
+      <Time>2011-05-19T23:27:52.2552116+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\WizardSnurrSpecial1_0.xml</Key>
+        <Value>2015-04-01T18:19:00.7722948+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\PlayerCharacterSpecialMove2.fbx</Source>
+      <Name>Animations\PlayerCharacterSpecialMove2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Animations\PlayerCharacterSpecialMove2.xnb</Output>
+      <Time>2011-05-19T23:27:52.2252099+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PlayerCharacterSpecialMove2_1.xml</Key>
+        <Value>2015-04-01T18:18:59.8762436+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSkjutUppNer.fbx</Source>
+      <Name>Animations\WizardSkjutUppNer</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Animations\WizardSkjutUppNer.xnb</Output>
+      <Time>2011-05-19T23:27:52.2472112+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\WizardSkjutUppNer_0.xml</Key>
+        <Value>2015-04-01T18:19:01.1303153+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSkuttandeMedArmar.fbx</Source>
+      <Name>Animations\WizardSkuttandeMedArmar</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Animations\WizardSkuttandeMedArmar.xnb</Output>
+      <Time>2011-05-19T23:27:52.2512114+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\WizardSkuttandeMedArmar_0.xml</Key>
+        <Value>2015-04-01T18:19:01.3313268+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\MechRobotGå.fbx</Source>
+      <Name>Models\MechRobotGå</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\MechRobotGå.xnb</Output>
+      <Time>2011-05-19T23:27:59.4366224+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MechRobotG_0.xml</Key>
+        <Value>2015-04-01T18:19:01.6733463+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\MinionNy.fbx</Source>
+      <Name>Models\MinionNy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\MinionNy.xnb</Output>
+      <Time>2011-05-19T23:27:59.4986259+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MinionNy_0.xml</Key>
+        <Value>2015-04-01T18:19:01.755351+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\MinionNySkelett.fbx</Source>
+      <Name>Models\MinionNySkelett</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\MinionNySkelett.xnb</Output>
+      <Time>2011-05-19T23:27:59.5466287+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MinionNySkelett_0.xml</Key>
+        <Value>2015-04-01T18:19:01.8673574+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\BasGrund.fbx</Source>
+      <Name>Models\BasGrund</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\BasGrund.xnb</Output>
+      <Time>2011-05-19T23:27:59.5006261+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\BasGrund_0.xml</Key>
+        <Value>2015-04-01T18:19:01.91136+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\MinionNySkelettAnim.fbx</Source>
+      <Name>Models\MinionNySkelettAnim</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\MinionNySkelettAnim.xnb</Output>
+      <Time>2011-05-19T23:27:59.4326222+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MinionNySkelettAnim_0.xml</Key>
+        <Value>2015-04-01T18:19:02.035367+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ByggnadGrund2.fbx</Source>
+      <Name>Models\ByggnadGrund2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\ByggnadGrund2.xnb</Output>
+      <Time>2011-05-19T23:27:59.5586294+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ByggnadGrund2_0.xml</Key>
+        <Value>2015-04-01T18:19:02.5483964+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ByggnadGrund3.fbx</Source>
+      <Name>Models\ByggnadGrund3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\ByggnadGrund3.xnb</Output>
+      <Time>2011-05-19T23:27:59.5626296+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ByggnadGrund3_0.xml</Key>
+        <Value>2015-04-01T18:19:02.5993993+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\MinionAnimeradX.fbx</Source>
+      <Name>Models\MinionAnimeradX</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Models\MinionAnimeradX.xnb</Output>
+      <Time>2011-05-19T23:27:59.5316278+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MinionAnimeradX_0.xml</Key>
+        <Value>2015-04-01T18:19:02.7294067+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\coin.wav</Source>
+      <Name>Audio\Effects\coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\coin.xnb</Output>
+      <Time>2011-05-19T23:27:43.6037168+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\explosion.wav</Source>
+      <Name>Audio\Effects\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\explosion.xnb</Output>
+      <Time>2011-05-19T23:27:43.6227179+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\shoot.wav</Source>
+      <Name>Audio\Effects\shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\shoot.xnb</Output>
+      <Time>2011-05-19T23:27:43.607717+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\addminion.wav</Source>
+      <Name>Audio\Effects\addminion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\addminion.xnb</Output>
+      <Time>2011-05-19T23:27:43.6317184+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\build.wav</Source>
+      <Name>Audio\Effects\build</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\build.xnb</Output>
+      <Time>2011-05-19T23:27:43.6167176+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\buildmenu.wav</Source>
+      <Name>Audio\Effects\buildmenu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\buildmenu.xnb</Output>
+      <Time>2011-05-19T23:27:43.5987165+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\changeformation.wav</Source>
+      <Name>Audio\Effects\changeformation</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\changeformation.xnb</Output>
+      <Time>2011-05-19T23:27:43.6007166+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\createminion.wav</Source>
+      <Name>Audio\Effects\createminion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\createminion.xnb</Output>
+      <Time>2011-05-19T23:27:43.6097172+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\deny.wav</Source>
+      <Name>Audio\Effects\deny</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\deny.xnb</Output>
+      <Time>2011-05-19T23:27:43.6197177+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\deny2.wav</Source>
+      <Name>Audio\Effects\deny2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\deny2.xnb</Output>
+      <Time>2011-05-19T23:27:43.6287182+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\special.wav</Source>
+      <Name>Audio\Effects\special</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\special.xnb</Output>
+      <Time>2011-05-19T23:27:43.6257181+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Effects\teleport.wav</Source>
+      <Name>Audio\Effects\teleport</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Effects\teleport.xnb</Output>
+      <Time>2011-05-19T23:27:43.6137174+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\AttaGlas.wma</Source>
+      <Name>Audio\Songs\AttaGlas</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Songs\AttaGlas.xnb</Output>
+      <Extra>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Songs\AttaGlas.wma</Extra>
+      <Time>2011-05-19T23:27:49.5780585+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\ParticleEffect.fx</Source>
+      <Name>Shaders\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Shaders\ParticleEffect.xnb</Output>
+      <Time>2011-05-19T23:28:04.7749277+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Copy of Shader.fx</Source>
+      <Name>Shaders\Copy of Shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Shaders\Copy of Shader.xnb</Output>
+      <Time>2011-05-28T05:21:05.4326843+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Shader.fx</Source>
+      <Name>Shaders\Shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Shaders\Shader.xnb</Output>
+      <Time>2011-05-29T15:00:42.1316386+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Songs\barn-beat.mp3</Source>
+      <Name>Audio\Songs\barn-beat</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Songs\barn-beat.xnb</Output>
+      <Extra>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\Audio\Songs\barn-beat.wma</Extra>
+      <Time>2011-05-19T23:27:49.5840589+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\DoodadTree2old.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\DoodadTree2old_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5426285+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\monitor.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\monitor_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5376282+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\trololol.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\trololol_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5046263+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\DoodadTree3.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\DoodadTree3_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4906255+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\DoodadTree1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\DoodadTree1_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4836251+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\troll.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\troll_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5506289+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\DoodadTree2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\DoodadTree2_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4866253+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MonsterFiendeStillaFBX.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MonsterFiendeStillaFBX_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5156269+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\UltimateFBX.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\UltimateFBX_0.xml</Output>
+      <Time>2011-05-19T23:27:59.534628+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\EconomyMetalResource.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\EconomyMetalResource_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4456229+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\TrädMaterial.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\TrdMaterial_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5276276+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\AlternateTree1FBX.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\AlternateTree1FBX_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4636239+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\AlternateBuilding2FBX.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\AlternateBuilding2FBX_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4596237+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\TrädFyrkantigFBX.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\TrdFyrkantigFBX_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4546234+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BuildingWindmill.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\BuildingWindmill_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4936257+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BuildingFactory.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\BuildingFactory_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4726245+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BuildingControlTower.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\BuildingControlTower_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5196271+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Pouya2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Pouya2_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5236274+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\PouyaFulBen.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Debug\Animations\PouyaFulBen_0.xml</Output>
+      <Time>2011-05-19T23:27:52.2352105+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PouyaFulBen_1.xml</Key>
+        <Value>2015-04-01T18:18:57.0290807+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\PouyaFulBen.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Animations\PouyaFulBen_1.xml</Output>
+      <Time>2011-05-19T23:27:52.2352105+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\PouyaFulBen2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Debug\Animations\PouyaFulBen2_0.xml</Output>
+      <Time>2011-05-19T23:27:52.243211+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PouyaFulBen2_1.xml</Key>
+        <Value>2015-04-01T18:18:57.1180858+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\PouyaFulBen2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Animations\PouyaFulBen2_1.xml</Output>
+      <Time>2011-05-19T23:27:52.243211+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\PouyaBase.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\PouyaBase_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4766247+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\AnimationWizardSenaste.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\AnimationWizardSenaste_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4686242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\WizardASC2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Animations\WizardASC2_0.xml</Output>
+      <Time>2011-05-19T23:27:52.2402108+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\PlayerCharacterHover.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\PlayerCharacterHover_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4496231+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\PlayerCharacterSpecialMove2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Debug\Animations\PlayerCharacterSpecialMove2_0.xml</Output>
+      <Time>2011-05-19T23:27:52.2252099+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\PlayerCharacterSpecialMove2_1.xml</Key>
+        <Value>2015-04-01T18:18:59.8762436+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\PlayerCharacterSpecialMove2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Animations\PlayerCharacterSpecialMove2_1.xml</Output>
+      <Time>2011-05-19T23:27:52.2252099+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSkjutar1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Debug\Animations\WizardSkjutar1_0.xml</Output>
+      <Time>2011-05-19T23:27:52.2302102+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Animations\WizardSkjutar1_1.xml</Key>
+        <Value>2015-04-01T18:19:00.2482648+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSkjutar1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Animations\WizardSkjutar1_1.xml</Output>
+      <Time>2011-05-19T23:27:52.2302102+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BuildingShrine3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\BuildingShrine3_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4796249+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Bullet1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Bullet1_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5076265+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Bullet2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Bullet2_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5106266+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\DoodadStoneHeap.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\DoodadStoneHeap_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4416227+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSnurrSpecial1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Animations\WizardSnurrSpecial1_0.xml</Output>
+      <Time>2011-05-19T23:27:52.2552116+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSkjutUppNer.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Animations\WizardSkjutUppNer_0.xml</Output>
+      <Time>2011-05-19T23:27:52.2472112+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\WizardSkuttandeMedArmar.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Animations\WizardSkuttandeMedArmar_0.xml</Output>
+      <Time>2011-05-19T23:27:52.2512114+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MechRobotGå.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MechRobotG_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4366224+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MinionNy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MinionNy_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4986259+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MinionNySkelett.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MinionNySkelett_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5466287+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BasGrund.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\BasGrund_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5006261+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MinionNySkelettAnim.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MinionNySkelettAnim_0.xml</Output>
+      <Time>2011-05-19T23:27:59.4326222+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ByggnadGrund2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ByggnadGrund2_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5586294+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ByggnadGrund3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ByggnadGrund3_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5626296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MinionAnimeradX.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MinionAnimeradX_0.xml</Output>
+      <Time>2011-05-19T23:27:59.5316278+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\GameStateManagementSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\ModelAnimationPipeline\bin\x86\Debug\ModelAnimationPipeline.dll</Key>
+        <Value>2015-04-01T18:18:33.0787108+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\ModelAnimationLibrary\bin\x86\Debug\ModelAnimationLibrary.dll</Key>
+        <Value>2015-04-01T18:18:32.6596869+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-23T12:16:05.9286883+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 2796183680;
+    Bank Last Revised High = 30151795;
+
+    Wave
+    {
+        Name = coin;
+        File = ..\Effects\coin.wav;
+        Build Settings Last Modified Low = 653845552;
+        Build Settings Last Modified High = 30137613;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 26292;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 27552000;
+            Last Modified High = 30151625;
+        }
+    }
+
+    Wave
+    {
+        Name = explosion;
+        File = ..\Effects\explosion.wav;
+        Build Settings Last Modified Low = 1917294368;
+        Build Settings Last Modified High = 30139617;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 56428;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 27622000;
+            Last Modified High = 30151625;
+        }
+    }
+
+    Wave
+    {
+        Name = shoot;
+        File = ..\Effects\shoot.wav;
+        Build Settings Last Modified Low = 1917294368;
+        Build Settings Last Modified High = 30139617;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 33516;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 27582000;
+            Last Modified High = 30151625;
+        }
+    }
+
+    Wave
+    {
+        Name = build;
+        File = ..\Effects\build.wav;
+        Build Settings Last Modified Low = 521033680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 165668;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 39413680;
+            Last Modified High = 30151795;
+        }
+    }
+
+    Wave
+    {
+        Name = addminion;
+        File = ..\Effects\addminion.wav;
+        Build Settings Last Modified Low = 2654473680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 76868;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2083853680;
+            Last Modified High = 30151795;
+        }
+    }
+
+    Wave
+    {
+        Name = buildmenu;
+        File = ..\Effects\buildmenu.wav;
+        Build Settings Last Modified Low = 2676433680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 12288;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2023833680;
+            Last Modified High = 30151795;
+        }
+    }
+
+    Wave
+    {
+        Name = changeformation;
+        File = ..\Effects\changeformation.wav;
+        Build Settings Last Modified Low = 2676443680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 17308;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1936913680;
+            Last Modified High = 30151795;
+        }
+    }
+
+    Wave
+    {
+        Name = createminion;
+        File = ..\Effects\createminion.wav;
+        Build Settings Last Modified Low = 2680783680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 15724;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1869913680;
+            Last Modified High = 30151795;
+        }
+    }
+
+    Wave
+    {
+        Name = deny;
+        File = ..\Effects\deny.wav;
+        Build Settings Last Modified Low = 2680793680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 30624;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1748233680;
+            Last Modified High = 30151795;
+        }
+    }
+
+    Wave
+    {
+        Name = deny2;
+        File = ..\Effects\deny2.wav;
+        Build Settings Last Modified Low = 2680803680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 44404;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1451123680;
+            Last Modified High = 30151795;
+        }
+    }
+
+    Wave
+    {
+        Name = special;
+        File = ..\Effects\special.wav;
+        Build Settings Last Modified Low = 2689073680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 140004;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1356403680;
+            Last Modified High = 30151795;
+        }
+    }
+
+    Wave
+    {
+        Name = teleport;
+        File = ..\Effects\teleport.wav;
+        Build Settings Last Modified Low = 2689083680;
+        Build Settings Last Modified High = 30151795;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 271372;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1144233680;
+            Last Modified High = 30151795;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

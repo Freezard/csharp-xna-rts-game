@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RTSgame.GameStateManagementGame" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAEAAAAQ=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Program" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.GameObjects.Abstract.AnimatedModelObject" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\AnimatedModelObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RTSgame.GameObjects.Abstract.AnimatedSpriteObject" Collapsed="true">
+    <Position X="11.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\AnimatedSpriteObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RTSgame.GameObjects.Abstract.GameObject" Collapsed="true">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.GameObjects.Abstract.ModelObject" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACQAAAAAAAAAAAAAAAAAAgAAAAAAAAIAAA=</HashCode>
+      <FileName>GameObjects\Abstract\ModelObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RTSgame.GameObjects.Abstract.SpriteObject" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\SpriteObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RTSgame.GameObjects.Abstract.UIComponent" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAIAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\UIComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.GameObjects.Abstract.Unit" Collapsed="true">
+    <Position X="7.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAEAAAAAAAAAACAAAAQAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\Unit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RTSgame.GameObjects.AnimatedTree" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\AnimatedTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.GameObjects.Camera" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAQgAJAAAAACAAAAgACAiAAAAAIAAAAgAAAAAA=</HashCode>
+      <FileName>GameObjects\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.GameObjects.Enemy" Collapsed="true">
+    <Position X="5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.GameObjects.Minion" Collapsed="true">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Minion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.GameObjects.PlayerCharacter" Collapsed="true">
+    <Position X="9.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAACAAAAAAAAAAAAEAADAAAAQAAAAAAAA=</HashCode>
+      <FileName>GameObjects\PlayerCharacter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RTSgame.GameObjects.Tree" Collapsed="true">
+    <Position X="2.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.GameObjects.World" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASEAEEAAQQAAAAAAEAAAAAQBAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\World.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RTSgame.ScreenManagement.GameScreen" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAEBCAAARQAgAEEAIAAAAADAAAAA4AAgAGAkYIBAY=</HashCode>
+      <FileName>ScreenManagement\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.ScreenManagement.ScreenInputState" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAUBAAAAAAAAAAAACQAAFYAAAAAEAIAAAEAAAAEA=</HashCode>
+      <FileName>ScreenManagement\InputState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.ScreenManagement.ScreenManager" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAVEAgAAAgAwAAAAAAAAAAAAAAiBAERAAAgAACCEQ=</HashCode>
+      <FileName>ScreenManagement\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.BackgroundScreen" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Screens\BackgroundScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.GameplayScreen" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEECAAAAAAgAAAAAAAAAAAAAABAAAAgAgAAEAIAQ=</HashCode>
+      <FileName>Screens\GameplayScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.LoadingScreen" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAgAAAAAAAAgAAAAAQAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\LoadingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.MainMenuScreen" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiAAAAAAAAAAAAAAAAAAAAAABAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Screens\MainMenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.MenuEntry" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAAAJABAAAAAAAAIAAAACEQAAAI=</HashCode>
+      <FileName>Screens\MenuEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.MenuScreen" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQQAACGAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Screens\MenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.MessageBoxScreen" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQCAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACQ=</HashCode>
+      <FileName>Screens\MessageBoxScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.OptionsMenuScreen" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BhABAAAgAAAQAggAAAhAQAAAAAAABAAgAAAAABIACIA=</HashCode>
+      <FileName>Screens\OptionsMenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.PauseMenuScreen" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\PauseMenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Screens.PlayerIndexEventArgs" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Screens\PlayerIndexEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.Array2D&lt;T&gt;" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAFAIAAAIhAQAAAAAAAgAAAAADAAQAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\Array2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.AssetBank" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAECAAAAAAAAAAAAABABAAAAAAAAAAAAIAAQ=</HashCode>
+      <FileName>Utilities\AssetBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.Calculations" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Utilities\Calculations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.DrawManager" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAQAAAAgAAEAAABEAwEABBBAEQEAhAImAAAAAAAAA=</HashCode>
+      <FileName>Utilities\DrawManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.EasyRandom" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAIAAAACAA=</HashCode>
+      <FileName>Utilities\EasyRandom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.GameSession" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Utilities\GameSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.GameState" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAQBA=</HashCode>
+      <FileName>Utilities\GameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.HeightMap" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAABkAEAIAAAEABBAgAAACBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\HeightMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.InputManager" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQ4AACAAAIAAAgAAAAAAAAAAAAAAwABEgoABCAAAAg=</HashCode>
+      <FileName>Utilities\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.Player" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSgame.Utilities.Shaders" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\Shaders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="RTSgame.GameObjects.WorldPoint" Collapsed="true">
+    <Position X="18.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\WorldPoint.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RTSgame.Utilities.Location" Collapsed="true">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAAABAAgAAAAAAAAAAABEAAAAAAACACAAAAAYAA=</HashCode>
+      <FileName>Utilities\Array2D.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="RTSgame.GameObjects.Abstract.IAnimated" Collapsed="true">
+    <Position X="18.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\IAnimated.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RTSgame.GameObjects.Abstract.ICollidable" Collapsed="true">
+    <Position X="20" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\ICollidable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RTSgame.GameObjects.Abstract.IDrawableWorld" Collapsed="true">
+    <Position X="21.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\IDrawableWorld.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RTSgame.GameObjects.Abstract.IInputtable" Collapsed="true">
+    <Position X="23.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\IInputtable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RTSgame.GameObjects.Abstract.ILogic" Collapsed="true">
+    <Position X="16.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\ILogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RTSgame.GameObjects.Abstract.IMovable" Collapsed="true">
+    <Position X="18.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RTSgame.GameObjects.Abstract.IWorld" Collapsed="true">
+    <Position X="20" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASEAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Abstract\IWorld.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RTSgame.Utilities.GameWorld" Collapsed="true">
+    <Position X="16.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\GameWorld.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="RTSgame.ScreenManagement.ScreenState" Collapsed="true">
+    <Position X="16.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAEAAA=</HashCode>
+      <FileName>ScreenManagement\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

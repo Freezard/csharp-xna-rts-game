@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/rtsgame2011/!svn/ver/424/trunk/RTSgame%20(Windows)/ModelAnimationLibrary
+END
+AnimationPlayer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/rtsgame2011/!svn/ver/424/trunk/RTSgame%20(Windows)/ModelAnimationLibrary/AnimationPlayer.cs
+END
+ModelAnimationLibrary.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rtsgame2011/!svn/ver/122/trunk/RTSgame%20(Windows)/ModelAnimationLibrary/ModelAnimationLibrary.csproj
+END
+Keyframe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/rtsgame2011/!svn/ver/267/trunk/RTSgame%20(Windows)/ModelAnimationLibrary/Keyframe.cs
+END
+AnimationClip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/rtsgame2011/!svn/ver/267/trunk/RTSgame%20(Windows)/ModelAnimationLibrary/AnimationClip.cs
+END
+SkinningData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rtsgame2011/!svn/ver/267/trunk/RTSgame%20(Windows)/ModelAnimationLibrary/SkinningData.cs
+END

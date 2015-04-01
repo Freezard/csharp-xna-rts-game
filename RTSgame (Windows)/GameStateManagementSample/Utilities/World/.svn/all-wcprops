@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rtsgame2011/!svn/ver/411/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/World
+END
+WorldObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rtsgame2011/!svn/ver/366/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/World/WorldObject.cs
+END
+AllEnums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/366/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/World/AllEnums.cs
+END
+SmallArea.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/322/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/World/SmallArea.cs
+END
+Terminology.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rtsgame2011/!svn/ver/361/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/World/Terminology.txt
+END
+LargeArea.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/322/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/World/LargeArea.cs
+END
+Region.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rtsgame2011/!svn/ver/361/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/World/Region.cs
+END
+World.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rtsgame2011/!svn/ver/411/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/World/World.cs
+END

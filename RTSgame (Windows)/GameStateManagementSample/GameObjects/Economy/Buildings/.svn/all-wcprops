@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings
+END
+ContributeBuilding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/ContributeBuilding.cs
+END
+Building.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/Building.cs
+END
+RobotFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rtsgame2011/!svn/ver/426/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/RobotFactory.cs
+END
+ProtectBuilding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rtsgame2011/!svn/ver/426/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/ProtectBuilding.cs
+END
+Windmill.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/Windmill.cs
+END
+MainBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/MainBase.cs
+END
+ICreatesUnits.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rtsgame2011/!svn/ver/158/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/ICreatesUnits.cs
+END
+BuildingNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rtsgame2011/!svn/ver/422/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/BuildingNode.cs
+END
+HealingBuilding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/HealingBuilding.cs
+END
+IUsableStructure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/IUsableStructure.cs
+END
+ISellsThings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rtsgame2011/!svn/ver/158/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Buildings/ISellsThings.cs
+END

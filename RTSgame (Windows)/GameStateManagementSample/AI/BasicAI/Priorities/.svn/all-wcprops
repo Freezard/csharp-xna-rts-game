@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Priorities
+END
+ConstantPriority.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Priorities/ConstantPriority.cs
+END
+ExponentialDistancePriority.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Priorities/ExponentialDistancePriority.cs
+END
+LinearDistancePriority.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Priorities/LinearDistancePriority.cs
+END

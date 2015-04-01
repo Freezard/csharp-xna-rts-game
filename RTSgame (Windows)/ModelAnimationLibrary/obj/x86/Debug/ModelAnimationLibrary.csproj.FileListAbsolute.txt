@@ -1,0 +1,12 @@
+E:\Programmering\RTSgame (Windows)\RTSgame (Windows)\ModelAnimationLibrary\bin\x86\Debug\ModelAnimationLibrary.dll
+E:\Programmering\RTSgame (Windows)\RTSgame (Windows)\ModelAnimationLibrary\bin\x86\Debug\ModelAnimationLibrary.pdb
+E:\Programmering\RTSgame (Windows)\RTSgame (Windows)\ModelAnimationLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programmering\RTSgame (Windows)\RTSgame (Windows)\ModelAnimationLibrary\obj\x86\Debug\ModelAnimationLibrary.dll
+E:\Programmering\RTSgame (Windows)\RTSgame (Windows)\ModelAnimationLibrary\obj\x86\Debug\ModelAnimationLibrary.pdb
+E:\Programmering\RTSgame (Windows)\RTSgame (Windows)\ModelAnimationLibrary\obj\x86\Debug\ModelAnimationLibrary.csprojResolveAssemblyReference.cache
+E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\ModelAnimationLibrary\bin\x86\Debug\ModelAnimationLibrary.dll
+E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\ModelAnimationLibrary\bin\x86\Debug\ModelAnimationLibrary.pdb
+E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\ModelAnimationLibrary\obj\x86\Debug\ModelAnimationLibrary.csprojResolveAssemblyReference.cache
+E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\ModelAnimationLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\ModelAnimationLibrary\obj\x86\Debug\ModelAnimationLibrary.dll
+E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\ModelAnimationLibrary\obj\x86\Debug\ModelAnimationLibrary.pdb

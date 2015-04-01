@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI
+END
+Group.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Group.cs
+END
+PrioritySelectorMinion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/310/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/PrioritySelectorMinion.cs
+END
+AIManagerMinion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rtsgame2011/!svn/ver/152/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/AIManagerMinion.cs
+END
+Priority.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Priority.cs
+END
+PrioritySelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/rtsgame2011/!svn/ver/130/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/PrioritySelector.cs
+END
+Surroundings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/rtsgame2011/!svn/ver/211/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/Surroundings.cs
+END
+BehaviourA.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rtsgame2011/!svn/ver/81/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BehaviourA.cs
+END
+BehaviourB.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rtsgame2011/!svn/ver/87/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BehaviourB.cs
+END
+BehaviourC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rtsgame2011/!svn/ver/277/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BehaviourC.cs
+END

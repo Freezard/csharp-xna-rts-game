@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours
+END
+DropOffResourceBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/DropOffResourceBehaviour.cs
+END
+MoveInFormationBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rtsgame2011/!svn/ver/312/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/MoveInFormationBehaviour.cs
+END
+ShootBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rtsgame2011/!svn/ver/335/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/ShootBehaviour.cs
+END
+FollowPlayerBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rtsgame2011/!svn/ver/310/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/FollowPlayerBehaviour.cs
+END
+WanderBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rtsgame2011/!svn/ver/412/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/WanderBehaviour.cs
+END
+ConfidentAttackBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/ConfidentAttackBehaviour.cs
+END
+MinionAttackBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/MinionAttackBehaviour.cs
+END
+AvoidBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/AvoidBehaviour.cs
+END
+ChaseBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/ChaseBehaviour.cs
+END
+PickUpResourceBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/PickUpResourceBehaviour.cs
+END
+RandomDirectionMove.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/RandomDirectionMove.cs
+END
+StopBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/StopBehaviour.cs
+END
+ZombieBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Behaviours/ZombieBehaviour.cs
+END

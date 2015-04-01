@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI
+END
+AIControlledUnit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/AIControlledUnit.cs
+END
+BasicAIManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/BasicAIManager.cs
+END
+BasicBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/BasicBehaviour.cs
+END

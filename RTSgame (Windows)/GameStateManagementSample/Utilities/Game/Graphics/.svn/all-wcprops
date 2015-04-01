@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics
+END
+MultiTexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics/MultiTexture.cs
+END
+OldSubHeightMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics/OldSubHeightMap.cs
+END
+SubHeightMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics/SubHeightMap.cs
+END
+PointLight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics/PointLight.cs
+END
+HeightMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics/HeightMap.cs
+END
+Camera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics/Camera.cs
+END
+DrawManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics/DrawManager.cs
+END
+Shaders.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Graphics/Shaders.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Projectiles
+END
+PlayerCodedProjectile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Projectiles/PlayerCodedProjectile.cs
+END
+EnemyProjectile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rtsgame2011/!svn/ver/419/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Projectiles/EnemyProjectile.cs
+END
+Projectile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rtsgame2011/!svn/ver/419/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Projectiles/Projectile.cs
+END
+SimpleShot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rtsgame2011/!svn/ver/419/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Projectiles/SimpleShot.cs
+END

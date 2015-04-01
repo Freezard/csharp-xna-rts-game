@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTSgame (Windows)", "GameStateManagementSample\RTSgame (Windows).csproj", "{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content", "Content\Content.contentproj", "{B7219195-3990-4557-87D7-856DB165635D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelAnimationPipeline", "ModelAnimationPipeline\ModelAnimationPipeline.csproj", "{BA35C32D-4508-4640-9E68-046080C33FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelAnimationLibrary", "ModelAnimationLibrary\ModelAnimationLibrary.csproj", "{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{98F435DA-DC16-4DE4-80AE-080C6AF65593}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		RTSgame (Windows).vsmdi = RTSgame (Windows).vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Debug|x86.ActiveCfg = Debug|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Debug|x86.Build.0 = Debug|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Release|Any CPU.ActiveCfg = Release|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Release|x86.ActiveCfg = Release|x86
+		{CE4C1E0D-7E54-4BF6-9959-FB4BCC16B68E}.Release|x86.Build.0 = Release|x86
+		{B7219195-3990-4557-87D7-856DB165635D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7219195-3990-4557-87D7-856DB165635D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B7219195-3990-4557-87D7-856DB165635D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B7219195-3990-4557-87D7-856DB165635D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7219195-3990-4557-87D7-856DB165635D}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B7219195-3990-4557-87D7-856DB165635D}.Release|x86.ActiveCfg = Debug|Any CPU
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Debug|Any CPU.Build.0 = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Debug|x86.ActiveCfg = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Debug|x86.Build.0 = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Release|Any CPU.ActiveCfg = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Release|Any CPU.Build.0 = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Release|Mixed Platforms.ActiveCfg = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Release|Mixed Platforms.Build.0 = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Release|x86.ActiveCfg = Debug|x86
+		{BA35C32D-4508-4640-9E68-046080C33FBA}.Release|x86.Build.0 = Debug|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Debug|x86.ActiveCfg = Debug|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Debug|x86.Build.0 = Debug|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Release|Any CPU.ActiveCfg = Release|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Release|Mixed Platforms.Build.0 = Release|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Release|x86.ActiveCfg = Release|x86
+		{72C9248E-EA8D-400D-9A96-AD9CB2A3C962}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RTSgame (Windows).vsmdi
+	EndGlobalSection
+EndGlobal

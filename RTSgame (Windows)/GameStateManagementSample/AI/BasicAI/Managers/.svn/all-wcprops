@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/rtsgame2011/!svn/ver/397/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Managers
+END
+BasicMinionAIManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rtsgame2011/!svn/ver/371/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Managers/BasicMinionAIManager.cs
+END
+BasicEnemyAIManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rtsgame2011/!svn/ver/397/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Managers/BasicEnemyAIManager.cs
+END
+BasicShootaAIManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rtsgame2011/!svn/ver/233/trunk/RTSgame%20(Windows)/GameStateManagementSample/AI/BasicAI/Managers/BasicShootaAIManager.cs
+END

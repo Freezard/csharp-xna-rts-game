@@ -1,0 +1,4 @@
+E:\Programmering\RTSgame (Windows)\RTSgame (Windows)\Content\obj\x86\Debug\Audio\Sounds\RtsGameAudio.xml
+E:\Programmering\RTSgame (Windows)\RTSgame (Windows)\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\obj\x86\Debug\Audio\Sounds\RtsGameAudio.xml

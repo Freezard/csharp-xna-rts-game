@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\Models\monitor.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box001</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">1</Data>
+        </OpaqueData>
+        <Transform>2.54 0 0 0 0 7.19523466E-16 -2.54 0 0 2.54 7.19523466E-16 0 0 0 0 1</Transform>
+        <Positions>-7.5 -5 0 7.5 -5 0 -7.691494 5 -0.222042084 7.308506 5 -0.222042084 -7.5 -5 15 7.5 -5 15 -7.691494 5 14.7779579 7.308506 5 14.7779579 -5.522825 -5 1.97717535 5.522825 -5 1.97717535 5.522825 -5 13.0228243 -5.522825 -5 13.0228243 -4.74548 -3.00111485 2.75452 4.74548 -3.00111485 2.75452 4.74548 -3.00111485 12.24548 -4.74548 -3.00111485 12.24548 5.182715 9.494572 1.903749 -5.56570244 9.494572 1.903749 -5.56570244 9.494572 12.6521664 5.182715 9.494572 12.6521664</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 23 20 24 24 25 23 27 24 26 26 28 27 29 26 21 21 22 29 32 31 30 30 33 32 36 35 34 39 38 37 42 41 40 40 43 42 46 45 44 49 48 47 52 51 50 50 53 52 56 55 54 59 58 57 62 61 60 60 64 63 67 66 65 70 69 68</Indices>
+            <Vertices>
+              <PositionIndices>3 1 0 2 7 6 4 5 7 5 1 3 18 19 16 17 4 6 2 0 9 8 0 1 10 5 11 5 4 4 13 12 8 9 14 13 9 9 10 14 15 14 10 11 12 15 11 11 8 12 17 16 3 2 18 17 2 2 6 18 19 18 6 6 7 16 19 7 7 3 16</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -0.0221987348 -0.999753535 0 -0.0221987367 -0.9997536 0 -0.0221987348 -0.999753535 0 -0.0221987367 -0.9997536 0 0.0221987348 0.999753535 0 0.0221987367 0.9997536 0 0.0221987348 0.999753535 0 0.0221987367 0.9997536 0.999816656 0.01914589 0 0.9998167 0.01914589 0 0.999816656 0.01914589 0 0.9998167 0.01914589 0 0 1 0 0 1 0 0 1 0 0 1 0 -0.9998167 -0.01914589 0 -0.999816656 -0.0191458873 0 -0.9998167 -0.01914589 0 -0.999816656 -0.0191458873 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -0.3624464 0.932004631 0 -0.3624464 0.932004631 0 -0.362446368 0.9320046 0 -0.362446368 0.9320046 -0.932004631 -0.362446457 0 -0.9320046 -0.362446457 0 -0.9320046 -0.362446427 0 -0.9320046 -0.3624464 0 -0.9320046 -0.3624464 0 -0.932004631 -0.362446427 0 0 -0.362446457 -0.932004631 0 -0.362446457 -0.932004631 0 -0.362446427 -0.9320046 0 -0.362446427 -0.9320046 0.932004631 -0.362446457 0 0.932004631 -0.362446457 0 0.9320046 -0.362446427 0 0.9320046 -0.3624464 0 0.9320046 -0.3624464 0 0.932004631 -0.362446427 0 0 0.4275579 -0.903988 0 0.427557856 -0.903987944 0 0.4275579 -0.903988 0 0.4275579 -0.903987944 -0.903987944 0.427557975 0 -0.903987944 0.427557945 0 -0.903987944 0.427557945 0 -0.903987944 0.427557915 0 -0.903987944 0.427557975 0 -0.903987944 0.427557945 0 0 0.427557945 0.903987944 0 0.427557945 0.903987944 0 0.427557915 0.9039879 0 0.427557975 0.903988 0 0.427557975 0.903987944 0.903988 0.4275579 0 0.903987944 0.427557856 0 0.903987944 0.4275579 0 0.903988 0.4275579 0 0.903987944 0.4275579 0 0.903987944 0.427557856 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 0 0 1 1 1 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 1 0 1 1 1 0 1 1 0 0 0 0 0 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 0 1 0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 0 1 0 1 1 0 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>14 15 12 13</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -1 0 0 -1 0 0 -1 0 0 -1 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 0 0 1 1 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box002</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">4</Data>
+        </OpaqueData>
+        <Transform>1.79605138 1.79605114 5.08779869E-16 0 0 7.19523466E-16 -2.54 0 -1.79605114 1.79605138 5.087799E-16 0 -7.888609E-31 37.592 7.888609E-31 1</Transform>
+        <Positions>-0.15 -0.15 0 0.15 -0.15 0 -0.15 0.15 0 0.15 0.15 0 -0.15 -0.15 6 0.15 -0.15 6 -0.15 0.15 6 0.15 0.15 6</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box003</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">7</Data>
+        </OpaqueData>
+        <Transform>1.79605138 -1.796051 -5.08779869E-16 0 0 7.19523466E-16 -2.54 0 1.796051 1.79605138 5.087799E-16 0 0 37.592 0 1</Transform>
+        <Positions>-0.15 -0.15 0 0.15 -0.15 0 -0.15 0.15 0 0.15 0.15 0 -0.15 -0.15 6 0.15 -0.15 6 -0.15 0.15 6 0.15 0.15 6</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material #28</Name>
+      <Identity>
+        <SourceFilename>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\Models\monitor.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="Enabled" Type="bool">false</Data>
+        <Data Key="EffectList" Type="int">0</Data>
+        <Data Key="dxStdMat" Type="bool">false</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>Material #29</Name>
+      <Identity>
+        <SourceFilename>E:\Programmering\C#\csharp-xna-rts-game\RTSgame (Windows)\Content\Models\monitor.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 0 0</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">2</Data>
+        <Data Key="Enabled" Type="bool">false</Data>
+        <Data Key="EffectList" Type="int">0</Data>
+        <Data Key="dxStdMat" Type="bool">false</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

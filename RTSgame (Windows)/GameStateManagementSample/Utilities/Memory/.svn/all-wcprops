@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/rtsgame2011/!svn/ver/406/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory
+END
+AlwaysAllocatedObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rtsgame2011/!svn/ver/315/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory/AlwaysAllocatedObject.cs
+END
+PreAllocatedStructList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rtsgame2011/!svn/ver/406/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory/PreAllocatedStructList.cs
+END
+PreAllocatedObjectList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rtsgame2011/!svn/ver/406/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory/PreAllocatedObjectList.cs
+END
+IBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rtsgame2011/!svn/ver/315/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory/IBlock.cs
+END
+Array2D.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/364/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory/Array2D.cs
+END
+IAlwaysAllocatedStruct.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/rtsgame2011/!svn/ver/315/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory/IAlwaysAllocatedStruct.cs
+END
+BlockMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/364/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory/BlockMap.cs
+END
+Block.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rtsgame2011/!svn/ver/361/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Memory/Block.cs
+END

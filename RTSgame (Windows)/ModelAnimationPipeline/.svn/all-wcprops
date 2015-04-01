@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/rtsgame2011/!svn/ver/267/trunk/RTSgame%20(Windows)/ModelAnimationPipeline
+END
+SkinnedModelProcessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/rtsgame2011/!svn/ver/267/trunk/RTSgame%20(Windows)/ModelAnimationPipeline/SkinnedModelProcessor.cs
+END
+ModelAnimationPipeline.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rtsgame2011/!svn/ver/174/trunk/RTSgame%20(Windows)/ModelAnimationPipeline/ModelAnimationPipeline.csproj
+END
+MergeAnimationsProcessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rtsgame2011/!svn/ver/181/trunk/RTSgame%20(Windows)/ModelAnimationPipeline/MergeAnimationsProcessor.cs
+END

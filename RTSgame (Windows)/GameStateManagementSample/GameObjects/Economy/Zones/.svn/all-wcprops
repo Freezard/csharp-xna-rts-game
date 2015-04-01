@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Zones
+END
+ResourcePickUpZone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Zones/ResourcePickUpZone.cs
+END
+HealingZone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Zones/HealingZone.cs
+END
+ResourceDropOffZone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Zones/ResourceDropOffZone.cs
+END
+BuildingZone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Zones/BuildingZone.cs
+END
+ContributeZone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Economy/Zones/ContributeZone.cs
+END

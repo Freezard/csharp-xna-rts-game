@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game
+END
+AssetBank.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/352/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/AssetBank.cs
+END
+Player.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/Player.cs
+END
+GameSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rtsgame2011/!svn/ver/234/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/GameSession.cs
+END
+DayCycle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rtsgame2011/!svn/ver/416/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/DayCycle.cs
+END
+GameWorld.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/202/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/GameWorld.cs
+END
+SessionHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/SessionHandler.cs
+END
+UpdatePhase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rtsgame2011/!svn/ver/239/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/UpdatePhase.cs
+END
+TweakConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/TweakConstants.cs
+END
+GameState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/408/trunk/RTSgame%20(Windows)/GameStateManagementSample/Utilities/Game/GameState.cs
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Units
+END
+Enemy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/rtsgame2011/!svn/ver/422/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Units/Enemy.cs
+END
+Shoota.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Units/Shoota.cs
+END
+TestUnit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Units/TestUnit.cs
+END
+Minion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Units/Minion.cs
+END
+PlayerCharacter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rtsgame2011/!svn/ver/428/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Units/PlayerCharacter.cs
+END

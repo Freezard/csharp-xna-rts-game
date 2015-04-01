@@ -1,0 +1,73 @@
+﻿using Microsoft.Xna.Framework;
+using RTSgame.AI;
+using RTSgame.GameObjects;
+using RTSgame.GameObjects.Abstract;
+using RTSgame.GameObjects.Buildings;
+using RTSgame.GameObjects.Economy.Resources;
+using RTSgame.GameObjects.Sprites;
+using RTSgame.GameObjects.Units;
+using RTSgame.Utilities;
+using RTSgame.Utilities.World;
+using RTSgame.GameObjects.TestObjects;
+using RTSgame.GameObjects.Resources;
+
+
+
+namespace RTSgame.Levels.PlayableLevels
+{
+    class LevelOne : Level
+    {
+        public static void LoadLevel(Surroundings surroundings)
+        {
+            int worldSeed = 4;
+            World world = new World(worldSeed);
+            GameObject.SetWorldForAllGameObjects(world);
+            GameState gameState = GameState.GetInstance();
+            DrawManager drawManager = DrawManager.GetInstance();
+            gameState.addWorld(world);
+            drawManager.InitHeightMap(world);
+            drawManager.SetDoodads(world);
+
+            SoundPlayer.PlaySong("barn-beat");
+            SoundPlayer.SetLoopingSong(true);
+            // Adds a monster spawner to every region center, except where the players spawn
+            world.RegionMap.ChangeEveryPoint(delegate(ref Region R)
+            {
+                if (R.GetBlockPoint() != Constants.Player1StartingRegionPoint && R.GetBlockPoint() != Constants.Player2StartingRegionPoint)
+                {
+                    if (R.GetBlockPoint() == new Point(1, 1))
+                    {
+                        MonsterSpawner mon = new MonsterSpawner(Calculations.PointToVector2(R.GetCenterOfBlockAsWorldPoint()));
+                        gameState.addGameObject(mon);
+                        drawManager.addDrawable(mon);
+                    }
+                    else
+                    {
+                        BuildingNode mon = new BuildingNode(Calculations.PointToVector2(R.GetCenterOfBlockAsWorldPoint()));
+                        gameState.addGameObject(mon);
+                        drawManager.addDrawable(mon);
+                    }
+                }
+            });
+
+
+           /* DataMine dm = new DataMine(Constants.GetCenterOfTheWorldV2());
+            gameState.addGameObject(dm);
+            drawManager.addDrawable(dm);*/
+
+
+            //not a part of the level
+            
+       
+
+           /* for(int i = 0; i < 1; i++){
+                MetalResource resource = new MetalResource(new Vector2(2, i * 2) + Constants.GetCenterOfTheWorldV2());
+                gameState.addGameObject(resource);
+                drawManager.addDrawable(resource);
+            }*/
+ 
+            
+
+        }
+    }
+}

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract
+END
+IHandleSolidCollision.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rtsgame2011/!svn/ver/242/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IHandleSolidCollision.cs
+END
+CollisionInteractions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/rtsgame2011/!svn/ver/408/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/CollisionInteractions.cs
+END
+Unit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/Unit.cs
+END
+ObstacleStrategy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/rtsgame2011/!svn/ver/210/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/ObstacleStrategy.cs
+END
+PlayerOwnedObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/rtsgame2011/!svn/ver/421/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/PlayerOwnedObject.cs
+END
+IInputtable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rtsgame2011/!svn/ver/50/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IInputtable.cs
+END
+IIntelligent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rtsgame2011/!svn/ver/311/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IIntelligent.cs
+END
+ModelObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rtsgame2011/!svn/ver/424/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/ModelObject.cs
+END
+I3DCollidable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rtsgame2011/!svn/ver/210/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/I3DCollidable.cs
+END
+IAnimated.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/rtsgame2011/!svn/ver/130/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IAnimated.cs
+END
+SpriteObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/rtsgame2011/!svn/ver/233/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/SpriteObject.cs
+END
+IMovable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/rtsgame2011/!svn/ver/364/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IMovable.cs
+END
+AnimatedSpriteObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/rtsgame2011/!svn/ver/427/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/AnimatedSpriteObject.cs
+END
+GameObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/rtsgame2011/!svn/ver/408/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/GameObject.cs
+END
+IWorld.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rtsgame2011/!svn/ver/322/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IWorld.cs
+END
+IDrawableWorld.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rtsgame2011/!svn/ver/50/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IDrawableWorld.cs
+END
+IDoodad.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/rtsgame2011/!svn/ver/258/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IDoodad.cs
+END
+ICollidable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/rtsgame2011/!svn/ver/408/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/ICollidable.cs
+END
+ILogic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/rtsgame2011/!svn/ver/408/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/ILogic.cs
+END
+IInteractable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/rtsgame2011/!svn/ver/311/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/IInteractable.cs
+END
+SolidCollisionInteractions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/rtsgame2011/!svn/ver/168/trunk/RTSgame%20(Windows)/GameStateManagementSample/GameObjects/Abstract/SolidCollisionInteractions.cs
+END
